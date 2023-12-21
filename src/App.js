@@ -1,10 +1,10 @@
 function App() {
   return (
     <div
-      className="h-[400px] bg-red-400 text-4xl"
+      className="h-[200px] bg-orange-500 text-4xl"
       style={{ border: "1px solid red" }}
     >
-      Happy Coding
+      Happy Coding !
     </div>
   );
 }
